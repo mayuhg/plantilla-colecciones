@@ -7,10 +7,9 @@
     <teiHeader> 
         <fileDesc>
             <titleStmt>
-                <title xml:id="quijote_avellaneda">Fragmento del Quijote de Avellaneda</title>             
-                <author>Alonso Fernández de Avellaneda</author>
-                <editor resp="crítica">Florencio Sevilla Arroyo</editor>
-                <editor resp="digital">Gabriel Calarco</editor>  
+                <title xml:id="gdm">Fragmento de Análisis de las perspectivas de utilización de las computadoras en el campo bibliográfico y documentarlo, con el objeto de calcular las posibilidades de utilización y los costos en República Argentina</title>             
+                <author>Grupo de Documentación Mecanizada</author>
+                <editor resp="digital">Mayumi Romina Higa</editor>  
              </titleStmt>
             <publicationStmt>
                 <publisher>Curso de edición digital, Competencias transversales para la digitalización del patrimonio textual</publisher>
@@ -20,14 +19,14 @@
             </publicationStmt>
             <sourceDesc>
             <bibl>
-                <title>Segundo tomo del ingenioso hidalgo Don Quixote de la Mancha, que contiene su tercera salida : y es la quinta parte de sus aventuras</title>
-                <author>Alonso Fernández de Avellaneda</author>
-                <publisher>Casa de Felipe Roberto</publisher> 
-                <date>1614</date>
-                <pubPlace>Tarragona, España</pubPlace>
+                <title>Análisis de las perspectivas de utilización de las computadoras en el campo bibliográfico, con el objeto de calcular las posibilidades de utilización y los costos en la República Argentina</title>
+                <author>Grupo de Documentación Mecanizada</author>
+                <publisher>Universidad de Buenos Aires, Centro de Investigaciones Bibliotecológicas</publisher> 
+                <date>1969</date>
+                <pubPlace>Buenos Aires, Argentina</pubPlace>
                 <objectIdentifier>   
-                    <institution>Biblioteca Nacional (España)</institution>
-                    <idno>sig. R/32541</idno>
+                    <institution>Instituto de Investigaciones Bibliotecológicas (INIBI), Facultad de Filosofía y Letras, Universidad de Buenos Aires</institution>
+                    <idno>16938</idno>
              
                 </objectIdentifier>
                 </bibl>
@@ -37,17 +36,25 @@
 
         <text>
             <body>
-<pb n="1r"/>
-<head>Quinta parte del ingenioso hidalgo <persName key="quijote">Don Quijote de la Mancha</persName>, y de su andantesca caballería</head>
+<pb n="f12"/>
 
-<head>Capítulo Primero, de cómo <persName key="quijote">Don Quijote de la Mancha</persName> volvió a sus desvanecimientos de caballero andante, y de la venida a su lugar del <placeName key="argamesilla">Argamesilla</placeName> de <note xml:id="f1rnota1">ciertos caballeros granadinos</note>.</head>
+<head>La revolución provocada por el advenimiento de las computadoras en el campo de la tecnología, la ciencia, la cultura y la educación.</head>
+<epigraph>
+ <cit>
+  <quote>Si la revolución industrial necesitó cien años para transformar las estructuras de nuestra sociedad, es de temer que la reve lución informática las transforme mucho más rápidamente.
+  </quote>
+<bibl>Alain Hervé</bibl>
+ </cit>
+</epigraph>
 
 
-<p>El sabio <persName key="alisolan">Alisolán</persName>, historiador no menos moderno que verdadero, dice que siendo expelidos los <note xml:id="f1rnota2">moros agarenos</note> de <placeName key="aragon">Aragón</placeName>, de cuya nación él decendía, entre ciertos anales de historias halló <note xml:id="f1rnota3">escrita en arábigo</note> la tercera salida que hizo del lugar del <placeName key="argamesilla">Argamesilla</placeName> el invicto hidalgo <persName key="quijote">Don Quijote de la Mancha</persName>, para ir a unas justas que se hacían en la insigne ciudad de <placeName key="zaragoza">Zaragoza</placeName>, y dice desta manera:</p>
+<p><persName key="cordiner">Ralph J. Cordiner</persName>, en ese entonces presidente de la <orgName key="ge">Compañía General Electric</orgName>, decía en <date when="1955">1955</date>, en un testimonio prestado ante el <orgName key="estabeconom">Subcomité de Estabilización Económica</orgName> del <orgName key="congresous">Congreso de los Estados Unidos</orgName>: <quote>"Cuando se escriba la historia de nuestra época, creo que ella registrará tres desarrollos tecnológicos profundamente importantes: la <hi rend="underline">energía nuclear</hi>,que aumenta tremendamente la cantidad de energía disponible para el trabajo del mundo; la <hi rend="underline">automación</hi>, que aumenta grandemente la capacidad del hombre para usar herramientas; y las <hi rend="underline">computadoras</hi>, que multiplican la capacidad del hombre para realizar trabajo mental. Algunos de nuestros tecnólogos piensan que de los tres, la computadora es la que ofrecerá al hombre los mayores beneficios"</quote>.<note xml:id="f12nota1">(1)</note> Esas palabras proféticas fueron pronunciadas cuando las computadoras recién estaban en su infancia, y desde entonces su desarrollo ha sido tan remarcable como sus crecientes contribuciones al progreso y el bienestar humanos. "Si partimos de la base de que la máquina de vapor era apenas diez veces más efectiva que la energía animal a la que reemplazó, y de que las computadoras son hasta diez millones de veces más rápidas que las calculadoras mecánicas de las que fueron un desarrollo</p>
 
-<p>Después de haber sido llevado (...)</p>
+<pb n="f13"/>
 
-<pb n="1v"/>
+<p>se podrá tener una idea comparativa de sus posibilidades de revolucionar nuestra era tecnológica".(2) Es por ello que Hamming, en lugar de establecer su paralelo con la máquina de vapor que desató la primera revolución industrial, la compara a las revoluciones provocadas por las ideas de Copérnico y de Darwin, "ambas de las cuales cambiaron las concepciones del hombre sobre si mismo y sobre el mundo en que vivía". (3)Se podrá apreciar también la magnitud de los cambios provocados y a provocar por el advenimiento de este ^amplificador automático de inteligencia", como se le ha llamado, si tenemos en cuenta que opera con formas normalizadas de algo que es un denominador común a todas las actividades humanas: la información, es decir la experiencia expresada en datos, medidas, magnitudes, fór muías y teoremas. De allí que sus primeras aplicaciones lo hayan si. do en el campo de las matemáticas y la lógica simbólica, en el caso de las computadoras electrónicas digitales, en contraste con las analógicas, en que los números se representan y elaboran como magnitudes físicas. Por coincidir su desarrollo con el de la Segunda Guerra Mundial, otros de sus tempranos usos fueron, naturalmente, en operaciones estratégicas y logísticas. Precisamente la primera computadora electrónica de gran escala, la ENIAC, completada en 1946 por la Moore School of Electrical Engineering de la Universidad de Pennsylvania, fue diseñada principalmente para efectuar los cálculos requeridos para la preparación de tablas balísticas, mientras que la primera en completarse cronológicamente (1942) en los E.E. U.U., aunque de menor volumen de proceso de datos, la Mark I, diseñada por Howard Aiken, de la Universidad de Harvard, operando conjuntamente con la I.B.M. en base a las ideas germinales de Babbage, Jacquard y Hollerith, era un calculador automático de secuencia con</p>
+
+<pb n="15a"/>
 
 </body>
 </text>
